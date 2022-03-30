@@ -52,7 +52,7 @@ For Linux desktop development, you need the following in addition to the Flutter
  *  pkg-config
  *  liblzma-dev This might be necessary
 
-Run the following command
+#### Run the following command
 
 sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
 
