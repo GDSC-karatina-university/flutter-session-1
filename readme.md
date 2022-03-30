@@ -4,7 +4,7 @@
 
 ## Download Flutter SDK
 
-<https://flutter.dev/docs/get-started/install/windows>
+Link: <https://flutter.dev/docs/get-started/install/windows>
 
 - Extract the zip file and place the contained flutter in the desired installation location for the Flutter SDK (for example, C:\Users\<your-user-name>\Documents).
 
@@ -22,14 +22,13 @@
 
   - After that run $ flutter --doctor on cmd. if it runs you are setup for the session
 
-## You need to have installed one of the latest google chrome
 
 ## Install Flutter on Linux
 
 
 ### Download Flutter SDK
 
-link: <https://flutter.dev/docs/get-started/install/linux>
+Link: <https://flutter.dev/docs/get-started/install/linux>
 
 1. Extract the file in the desired location, for example:
 
@@ -59,3 +58,6 @@ sudo apt-get install clang cmake ninja-build pkg-config libgtk-3-dev liblzma-dev
 
 #### Enable desktop support
  - flutter config --enable-linux-desktop
+
+
+### You need to have installed one of the latest google chrome
